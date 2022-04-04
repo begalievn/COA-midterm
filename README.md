@@ -5,7 +5,7 @@ We are using labels, picture boxes and timer to make this game work. We haven't 
 
 In this we will learn together how to make a simple platform game, where player can move left and jump up and down, move from the platform to platform, collect coins and finally complete the game. We make this so it give different end messages depending how you lose game for example it can give a end message if you got hit by the enemy or fell off the platform.
 
-Video Tutorial - 
+
 
 ![project image](http://img.youtube.com/vi/rQBHwdEEL9I/0.jpg)
 
