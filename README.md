@@ -7,7 +7,7 @@ In this we will learn together how to make a simple platform game, where player 
 
 Video Tutorial - 
 
-[![](http://img.youtube.com/vi/rQBHwdEEL9I/0.jpg)](http://www.youtube.com/watch?v=rQBHwdEEL9I "MOO ICT platform game tutorial in windows form")
+[![](http://img.youtube.com/vi/rQBHwdEEL9I/0.jpg)]
 
  
 
