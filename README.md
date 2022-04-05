@@ -6,7 +6,7 @@
 
 ## Author: Nursultan Begaliev COM19
 
-This is the Breakout game in C#. I tried to implement this project with my beginner C# knowledge. Here, every movement is taken into consideration, blocks take random colors each time when the game starts. I'm interested in improving this game in the future, by adding score history, reords ect.
+This is the Platform game in C#. I tried to implement this project with my beginner C# knowledge. Here, every movement is taken into consideration, blocks take random colors each time when the game starts. I'm interested in improving this game in the future, by adding score history, reords ect.
 
 * Screenshot of the game
 
@@ -15,9 +15,9 @@ This is the Breakout game in C#. I tried to implement this project with my begin
 
 ## Video Review of the project
 
-[![IMAGE ALT TEXT](https://github.com/begalievn/COA-midterm/blob/main/youtube-marketing-400x250.jpeg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](https://github.com/begalievn/COA-midterm/blob/main/youtube-marketing-400x250.jpeg)](https://youtu.be/wGblQR7qEXQ)
 
-[Link to Youtube video if you didn't click on the picture](www.google.com)
+[Link to Youtube video if you didn't click on the picture](https://youtu.be/wGblQR7qEXQ)
 
  
 
