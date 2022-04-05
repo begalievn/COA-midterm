@@ -1,4 +1,4 @@
-# COA_Midterm_Project
+# COA midterm project
 
 ![alt text](https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png)
 
