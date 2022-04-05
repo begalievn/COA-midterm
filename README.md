@@ -6,7 +6,7 @@
 
 ## Author: Nursultan Begaliev COM19
 
-This is the Platform game in C#. I tried to implement this project with my beginner C# knowledge. Here, every movement is taken into consideration, blocks take random colors each time when the game starts. I'm interested in improving this game in the future, by adding score history, reords ect.
+This is the Platform game in C#. I watched a video tutorial and learnt to make a game with C# Window Form. In this project I learnt a lot about making games with C#, I enjoyed it. 
 
 * Screenshot of the game
 
