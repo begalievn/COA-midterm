@@ -6,7 +6,7 @@
 
 ## Author: Nursultan Begaliev COM19
 
-This is the Platform game with C#. I watched a video tutorial and learned to make a game with C# Window Form. In this project I learned a lot about making games with C#, I enjoyed it. 
+This is the Platform game with C#. I watched a video tutorial and practiced to make a game with C# Window Form. In this project I learned a lot about making games with C#, I enjoyed it. 
 
 * Screenshot of the game
 
