@@ -15,7 +15,7 @@ This is the Breakout game in C#. I tried to implement this project with my begin
 
 ## Video Review of the project
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](https://github.com/begalievn/COA-midterm/blob/main/youtube%20vidoe%20picture.png)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
  
 
