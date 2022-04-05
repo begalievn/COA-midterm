@@ -2,7 +2,7 @@
 
 ![alt text](https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png)
 
-# [Platform Game for Midterm Exam]
+# Platform Game for Midterm Exam
 
 ## Author: Nursultan Begaliev COM19
 
